@@ -35,7 +35,7 @@ x-status-note: >-
   Primary domain wethetrillions.com does not resolve (DNS NXDOMAIN as of
   2026-07-20); loolys.com redirects to an unrelated third-party blog. Consumer
   plant-based meal delivery company with no developer/API surface.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
