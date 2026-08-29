@@ -35,6 +35,9 @@ description: >-
   no public API surface. Its primary domain (wethetrillions.com) no longer
   resolves and the venture appears to be defunct/deadpooled.
 url: https://raw.githubusercontent.com/api-evangelist/loolys/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Backed by 500 Global and part of the API Evangelist network as a VC-portfolio lead, the company is a consumer food and health business with no public API surface."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
