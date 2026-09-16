@@ -23,21 +23,18 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/loolys.png
 name: Looly's
-description: >-
-  Looly's PBC (doing business as WeTheTrillions) was a San Francisco public
-  benefit corporation founded in 2013 by Lamiaa Bounahmidi that reengineered
-  preventative healthcare through microbiome science, evidence-based clinical
-  research, telemedicine, and plant-based food. It delivered fresh,
-  ready-to-eat plant-based meal and snack bundles targeted at chronic
-  conditions such as IBS/SIBO, diabetes and PCOS, plus a fertility program.
-  Backed by 500 Global and part of the API Evangelist network as a
-  VC-portfolio lead, the company is a consumer food and health business with
-  no public API surface. Its primary domain (wethetrillions.com) no longer
-  resolves and the venture appears to be defunct/deadpooled.
+description: Looly's PBC (doing business as WeTheTrillions) was a San Francisco public benefit corporation
+  founded in 2013 by Lamiaa Bounahmidi that reengineered preventative healthcare through microbiome science,
+  evidence-based clinical research, telemedicine, and plant-based food. It delivered fresh, ready-to-eat
+  plant-based meal and snack bundles targeted at chronic conditions such as IBS/SIBO, diabetes and PCOS,
+  plus a fertility program. Backed by 500 Global and part of the API Evangelist network as a VC-portfolio
+  lead, the company is a consumer food and health business with no public API surface. Its primary domain
+  (wethetrillions.com) no longer resolves and the venture appears to be defunct/deadpooled.
 url: https://raw.githubusercontent.com/api-evangelist/loolys/refs/heads/main/apis.yml
 x-api-posture: no-product-api
 x-api-posture-basis: observed
-x-api-posture-note: "Backed by 500 Global and part of the API Evangelist network as a VC-portfolio lead, the company is a consumer food and health business with no public API surface."
+x-api-posture-note: Backed by 500 Global and part of the API Evangelist network as a VC-portfolio lead,
+  the company is a consumer food and health business with no public API surface.
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -45,13 +42,12 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: defunct
-x-status-note: >-
-  Primary domain wethetrillions.com does not resolve (DNS NXDOMAIN as of
-  2026-07-20); loolys.com redirects to an unrelated third-party blog. Consumer
-  plant-based meal delivery company with no developer/API surface.
+x-status-note: Primary domain wethetrillions.com does not resolve (DNS NXDOMAIN as of 2026-07-20); loolys.com
+  redirects to an unrelated third-party blog. Consumer plant-based meal delivery company with no developer/API
+  surface.
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 tags:
 - Company
 - Food and Beverage
@@ -60,6 +56,7 @@ tags:
 - Plant-Based
 - Preventative Healthcare
 - Consumer
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
