@@ -64,6 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Looly's is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: 500-global — https://wethetrillions.com
+Looly's PBC (doing business as WeTheTrillions) was a San Francisco public benefit corporation founded in 2013 by Lamiaa Bounahmidi that reengineered preventative healthcare through microbiome science, evidence-based clinical research, telemedicine, and plant-based food. It delivered fresh, ready-to-eat plant-based meal and snack bundles targeted at chronic conditions such as IBS/SIBO, diabetes and PCOS, plus a fertility program. Backed by 500 Global and part of the API Evangelist network as a VC-portfolio lead, the company is a consumer food and health business with no public API surface. Its primary domain (wethetrillions.com) no longer resolves and the venture appears to be defunct/deadpooled.
+
+**Areas:** Company · Food and Beverage · Health · Meal Delivery · Plant-Based · Preventative Healthcare · Consumer · Defunct
+
+## Looly's on APIs.io (historical record)
+
+Everything profiled for Looly's is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/loolys/](https://apis.io/providers/loolys/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://wethetrillions.com)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Looly's: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/loolys/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
